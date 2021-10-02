@@ -1,0 +1,52 @@
+{
+    "name": "Piglet",
+    "references": [
+        "GUID:3d354272d3f2f4c3387dbccbaebd0f60",
+        "GUID:1f1db07d22489445ab0fc8ed6ef2ed4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.atteneder.ktx",
+            "expression": "0.0.0",
+            "define": "KTX_UNITY"
+        },
+        {
+            "name": "com.atteneder.ktx",
+            "expression": "0.9.1",
+            "define": "KTX_UNITY_0_9_1_OR_NEWER"
+        },
+        {
+            "name": "com.atteneder.ktx",
+            "expression": "1.0.0-preview",
+            "define": "KTX_UNITY_1_0_0_OR_NEWER"
+        },
+        {
+            "name": "com.atteneder.draco",
+            "expression": "0.0.0",
+            "define": "DRACO_UNITY"
+        },
+        {
+            "name": "com.atteneder.draco",
+            "expression": "1.4.0",
+            "define": "DRACO_UNITY_1_4_0_OR_NEWER"
+        },
+        {
+            "name": "com.atteneder.draco",
+            "expression": "2.0.0-preview",
+            "define": "DRACO_UNITY_2_0_0_OR_NEWER"
+        },
+        {
+            "name": "com.atteneder.draco",
+            "expression": "3.0.0",
+            "define": "DRACO_UNITY_3_0_0_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}
