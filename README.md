@@ -12,4 +12,5 @@ IFTTT
 
 ## Credits
 ### 3D models
-Lamp https://sketchfab.com/3d-models/simple-lamp-20-813f5aeef3f3430d947f3879c6941719
+Lamp https://sketchfab.com/3d-models/simple-lamp-20-813f5aeef3f3430d947f3879c6941719 \
+Fantasy Landscape https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573
