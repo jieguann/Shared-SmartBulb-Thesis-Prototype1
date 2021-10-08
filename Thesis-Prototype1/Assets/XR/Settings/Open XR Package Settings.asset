@@ -336,9 +336,7 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -4014436985523584297}
   - {fileID: -5507410440415559846}
-  - {fileID: 6355619693914949918}
   - {fileID: -7599915812215953358}
   - {fileID: -1701474171724050495}
   - {fileID: 5893915662475024438}
@@ -353,6 +351,8 @@ MonoBehaviour:
   - {fileID: 5195994499536162251}
   - {fileID: 2142918584174289280}
   - {fileID: -6502084869716846664}
+  - {fileID: -4014436985523584297}
+  - {fileID: 6355619693914949918}
   m_renderMode: 1
   m_depthSubmissionMode: 2
 --- !u!114 &-7313266242121547489
@@ -2338,7 +2338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f34c86d1a130cc45a438373e1e8a4fc, type: 3}
   m_Name: EditorRemotingPlugin Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Holographic Editor Remoting
   version: 0.9.5
   featureIdInternal: com.microsoft.openxr.feature.editorremoting
