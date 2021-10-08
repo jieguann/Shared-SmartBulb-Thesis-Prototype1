@@ -9,3 +9,7 @@ MRTK\
 Hololens 2\
 Smart Life Switch\
 IFTTT
+
+## Credits
+### 3D models
+Lamp https://sketchfab.com/3d-models/simple-lamp-20-813f5aeef3f3430d947f3879c6941719
