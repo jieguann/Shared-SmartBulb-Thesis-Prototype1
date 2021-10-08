@@ -1,7 +1,8 @@
 # Shared Smart Bulb (Thesis Prototype 1)
 Shared Smart Bulb is the prototype 1 of my Thesis project, that exploring the possibility to connect Metaverse and physical world.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=byGyiOgM2iU)
+https://user-images.githubusercontent.com/60665347/136500306-63da8a19-2e75-48c1-864e-8f7debc490be.mp4
+
 
 ## Tools
 Unity 2020.3.16f\
